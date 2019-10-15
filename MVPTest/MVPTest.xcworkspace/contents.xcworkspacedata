@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MVPTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PlayerList/PlayerList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PlayerDetail/PlayerDetail.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Core/Core.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Services/Services.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
